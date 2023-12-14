@@ -11,9 +11,9 @@ This is a simple Java program that demonstrates the creation of a basic graphica
    ```
 
 3. Run the compiled program
-```bahs
-java SimpleGUI
-```
+   ```bahs
+   java SimpleGUI
+   ```
 
 ## Description
 The main components of the code include:
