@@ -22,4 +22,3 @@ The main components of the code include:
 - JButton: A clickable button.
 - ActionListener: An event listener for the button click event.
 - JOptionPane: A dialog box for displaying messages.
-- The program creates a window with a button. When the button is clicked, a message dialog is shown.
